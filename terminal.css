@@ -1,16 +1,11 @@
-h1
-{
-    color: gray;
-    font-family: Courier;
-    text-align: center;
-}
+
 
 body
 {
    background-color: black;
    text-align: left;
    font-family: Courier;
-   color: gray;
+   color: rgb(141, 141, 141);
 }
 
 a
@@ -21,7 +16,7 @@ a
 
 a:hover
 {
-   color: 6699FF;
+   color: aqua;
 }
 
 
